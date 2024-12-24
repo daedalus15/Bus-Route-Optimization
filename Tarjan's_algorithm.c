@@ -283,7 +283,6 @@ while (fgets(line, sizeof(line), file)) {
                                     adj[i][j] = 1;
                                     adj[j][i] = 1;
                                     flag = 1;
-                                    //break;
                                 }
                             }
                             if(flag)
