@@ -2,7 +2,7 @@
 
 ## About
 
-* This project aims to optimize bus routes by using Tarjan's algorithm to identify and resolve articulation points in a bus route network. 
+* This project, made as a submission for the **Data Structures and Algorithms** Course, aims to optimize bus routes by using Tarjan's algorithm to identify and resolve articulation points in a bus route network. 
 * Articulation points are critical nodes where the removal could significantly impact route connectivity and efficiency.
 * By detecting and addressing these points, the project seeks to improve the reliability and effectiveness of public transportation systems.
 
